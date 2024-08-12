@@ -1,0 +1,4 @@
+requests
+fastapi
+pandas
+pydantic
